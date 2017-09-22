@@ -27,6 +27,8 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+To create a User or Organization Pages site, you must name your repository username.github.io, using the name of the user or organization that owns the repository. If you choose a different repository name, then the Jekyll Theme Chooser automatically creates a Project Pages site for you. For more information, see "User, Organization and Project Pages."
+
 
 ### Jekyll Themes
 
